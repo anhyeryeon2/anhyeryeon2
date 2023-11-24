@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![result_4](https://t1.daumcdn.net/cafeattach/1IHuH/d6903f124041e538c4c1a44b2504e7c564466dda)
 
 
-<!--
 **anhyeryeon2/anhyeryeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
