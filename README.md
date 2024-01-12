@@ -2,13 +2,9 @@
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fffb8a,100:ffadf4&height=180&text=%20hyeryeon's%20github&animation=fadeIn&fontColor=3d3678&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ecd0fb&height=200&text=I'm%20Hyeryeon%20⚡&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
-    
 <div align= "center"> 
-    
-
-
 
 <div align= "center">  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
@@ -21,9 +17,10 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-     <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhyeryeon2&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+     <div align= "center">  <a href="https://solved.ac/an290an">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhyeryeon2&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          />  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=an290an" />
+    </a></div> 
     </div>
     
-
 
