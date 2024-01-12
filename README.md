@@ -1,10 +1,14 @@
-### Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=25" width=100% />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=3000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Welcome!🥳;Hyeryeon+'s+GITHUB!">
+
+<!--### My Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-Ram&&layout=compact&langs_count=81)-->
 
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ecd0fb&height=200&text=I'm%20Hyeryeon%20⚡&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-<div align= "center"> 
+
+
 
 <div align= "center">  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
