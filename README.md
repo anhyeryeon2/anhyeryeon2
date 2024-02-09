@@ -7,25 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Ga-Ram&&layout=compact&langs_count=81)-->
 
 
-<div align="center"><img src="https://img.shields.io/badge/ahr020532@gmail.com-white?style=flat&logo=Gmail"/></a>
 
-
-<div align= "center">  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-     <div align= "center">
-         <a href=hyeroneey> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=hyeroneey"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <!--
-    <div align= "center"> 
-     <div align= "center">  <a href="https://solved.ac/an290an">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhyeryeon2&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          />  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=an290an" />
-    </a></div> 
-    </div>
-    
--->
