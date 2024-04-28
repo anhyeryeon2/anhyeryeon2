@@ -1,7 +1,9 @@
 
+
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&customColorList=15" width=100% />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=3000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hyeryeon+'s+GITHUB!👀🌱">
-<!--
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
@@ -16,3 +18,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
 -->
 
+**🎯 Mainly focusing on**
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+**⚡️ About Me**
+
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
