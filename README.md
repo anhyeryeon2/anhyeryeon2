@@ -14,7 +14,7 @@
 
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,firebase,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
 
