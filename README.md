@@ -1,3 +1,17 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
+    width="400"
+    height="120"
+  />
+</a>
+
+<!-- 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+
+-->
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&customColorList=15" width=100% />
@@ -13,6 +27,11 @@
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOYGvgnBVImyqNUaRn-WSRsYMlUwGn4DBqvSgLVopGA&sg"></code>
 
 -->
+
+
+  
+
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind)](https://skillicons.dev)
 -->
