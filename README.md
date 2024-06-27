@@ -1,10 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
-    width="400"
-    height="120"
-  />
-</a>
 
 <!-- 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -34,7 +27,20 @@
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind)](https://skillicons.dev)
+
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-000000?style=flat-square&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
+    width="300"
+    height="120"
+  />
+</a>
 
 
