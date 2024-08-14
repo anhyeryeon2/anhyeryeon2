@@ -25,8 +25,8 @@
   <img
     src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
     width="300"
-    height="120"
+    height="200"
   />
 </a>
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhyeryeon2&count_bg=%23FFC5F1&title_bg=%23B2B2B2&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
