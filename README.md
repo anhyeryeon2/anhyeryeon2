@@ -30,4 +30,4 @@
   />
 </a>
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeroneey&color=dark)](https://velog.io//@hyeroneey)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeroneey&color=dark)](https://velog.io/@hyeroneey)
