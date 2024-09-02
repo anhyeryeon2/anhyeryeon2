@@ -13,7 +13,7 @@
 
 -->
 
-
+<!--
 #### 🎯Stack
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -40,4 +40,12 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeroneey&color=dark)](https://velog.io/@hyeroneey)
 
 
-
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
+    width="300"
+    height="150"
+  />
+</a>
