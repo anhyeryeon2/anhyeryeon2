@@ -32,7 +32,7 @@
   <img
     src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
     width="300"
-    height="200"
+    height="150"
   />
 </a>
 
