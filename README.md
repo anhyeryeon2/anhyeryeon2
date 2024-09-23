@@ -11,7 +11,7 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind)](https://skillicons.dev)
 
--->
+
 
 
 #### 🎯Stack
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
 <a href="https://github.com/devxb/gitanimals">
   <img
