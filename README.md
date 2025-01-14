@@ -4,13 +4,13 @@
 <div align="center">
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/anhyeryeon2"
-    width="400"
-    height="220"
-  />
+<img
+  src="https://render.gitanimals.org/farms/anhyeryeon2"
+  width="400"
+  height="250"
+/>
 </a>
-  
+
 #### 💬 Skills
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
