@@ -1,23 +1,27 @@
 
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&customColorList=15" width=100% />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=3000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hyeryeon+'s+GITHUB!">
--->
-<!-- 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&customColorList=15" width=100% /> -->
 
-#### 🎯Stack
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/tailwind CSS-8DC63F?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<div align="center">
 
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy)
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/lines/anhyeryeon2?pet-id=593608242670357322"
-    width="300"
-    height="150"
+    src="https://render.gitanimals.org/farms/anhyeryeon2"
+    width="400"
+    height="220"
   />
 </a>
+  
+#### 💬 Skills
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> 
+<img src="https://img.shields.io/badge/next-000000?style=flat&logo=nextdotjs&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/> 
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
 
 
+<br>
 
+</div>
