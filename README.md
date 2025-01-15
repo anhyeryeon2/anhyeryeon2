@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars)
 
-
+<!--
 #### 💬 Skills
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
@@ -26,5 +26,5 @@
 
 
 <br>
-
+-->
 </div>
