@@ -30,8 +30,6 @@
 </div>
 -->
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/anhyeryeon2"
@@ -39,4 +37,7 @@
   height="200"
 />
 </a>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars)
+
 </div>
