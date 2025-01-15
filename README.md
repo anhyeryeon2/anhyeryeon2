@@ -7,7 +7,7 @@
 <img
   src="https://render.gitanimals.org/farms/anhyeryeon2"
   width="400"
-  height="250"
+  height="300"
 />
 </a>
 
