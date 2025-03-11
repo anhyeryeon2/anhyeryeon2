@@ -6,7 +6,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/anhyeryeon2" width="400" height="200"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars" width="400"/>
 
 </div>
 </div>
