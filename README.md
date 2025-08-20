@@ -12,6 +12,6 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/anhyeryeon2" width="320" height="300"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=anhyeryeon2&show_icons=true&theme=buefy&hide=stars" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anhyeryeon2&count_private=true&show_icons=true&theme=buefy&hide=stars,contribs" width="430"/>
 
 </div>
