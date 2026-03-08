@@ -3,10 +3,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&customColorList=15" width=100% />
  -->
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhyeryeon2&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/anhyeryeon2"
-  width="400"
-  height="200"
-/>
-</a>
+
+![header](https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=1,2,5,7,30,35,40&text=HYERYEON&fontSize=64&fontColor=ffffff&stroke=e8e8e8&strokeWidth=0.8&animation=fadeIn)
+
+
