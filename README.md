@@ -1,6 +1,1 @@
-
- <!--
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&customColorList=15" width=100% />
- -->
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=360&color=0:fff9c4,100:c5e478&text=HYERYEON!&fontSize=60&fontColor=3d4f1a)
+**Hello! I'm Hyeryeon An.** <img width="60" height="60" alt="img" src="https://github.com/user-attachments/assets/c30a32ef-39d5-44f0-829b-d5c4fc6ff08e" />
